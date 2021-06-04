@@ -1,2 +1,2 @@
 # Flask-Tutorials
-The various steps followed while learning flask
+The repository containts the code written by me while learing the flask framework.
